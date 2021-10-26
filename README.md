@@ -19,13 +19,14 @@ Setting up the data for the charts was difficult for the most part, but I did ha
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-- 
+
 The difference between outcomes of the theater type Kickstarter is vastly different from each other. When looking at the successful Kickstarter you see a gradual rise in the amount toward the spring. Additionally, the successes peak in May and start to decline. The failed Kickstarter has a much steadier line and only peaks during May and two other months with similar numbers. There are much fewer canceled Kickstarter, and peaks in January. Other than the peak the amount of canceled Kickstarter stays consistent throughout the year. 
 - What can you conclude about the Outcomes based on Goals?
-- 
+
 The first thing I noticed was that the canceled plays were at zero, so I did not have to focus on it at all. The second thing I noticed was that the number failed and number successful mirror each other on the line chart. The line chart also shows that the cheaper the goal is the more likely it will be successful. 
 - What are some limitations of this dataset?
-- 
+
 For some of the line chart, we used I don’t think we had enough data to get a better idea of the bigger picture. For example, the outcomes based on the goals pivot table have been sorted by their goal. I don’t think we had enough of the higher-end kick-starters to truly understand the difference. One other difference I how the data was obtained. 
 - What are some other possible tables and/or graphs that we could create?
+
 A box plot would be a good addition since we can spot potential outliers in the data. Additionally, we would have some additional data that can give us a better understanding overall.
