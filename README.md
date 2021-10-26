@@ -11,6 +11,7 @@ To have a proper analysis of the outcomes based on launch date I used the pivot 
 ![Theater Outcomes vs Launch](https://github.com/Robeliom15/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png?raw=true)
 ### Analysis of Outcomes Based on Goals
 For the analysis of the outcomes based on goals, I needed to use two formulas to get the data I needed. To get the data for the number failed, canceled, and successful based on the goal and outcome I used the Countifs formula. Once I get that data, I added all the rows then divided them to get a percentage of the outcomes and goals. Once I get all my data, I then make a line chart so I can visualize the data. 
+![Outcome VS Goals](https://github.com/Robeliom15/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png?raw=true)
 ### Challenges and Difficulties Encountered
 Setting up the data for the charts was difficult for the most part, but I did have one major problem. When making the pivot table/chart for the theater outcomes by launch date I found that the data in the pivot table and line chart did not look right. Looking over the original data in the Kickstarter sheet I could not find any errors in the data I had. To fix it I had to use the month formula to get the data from the date-created conversion and convert them to the month. I found when I made the pivot table and line chart with this data the problem was fixed. 
 ## Results
