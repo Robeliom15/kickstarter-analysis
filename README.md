@@ -8,6 +8,7 @@ Louise’s play was very close to reaching its goal in a short amount of time, s
 
 ### Analysis of Outcomes Based on Launch Date
 To have a proper analysis of the outcomes based on launch date I used the pivot table along with a line chart. The data that will be used will be taken from the outcomes, years, category, and launch date columns.  Some of the columns use data that are changed due to formulas. For example, the year's column uses the Year formula to grab information from the launch date columns.  The pivot table can be filtered by category and years. The category filter focuses on theaters only with successes as the start. I then make a line chart, so that I can visualize the numbers. 
+![Theater Outcomes vs Launch](https://github.com/Robeliom15/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png?raw=true)
 ### Analysis of Outcomes Based on Goals
 For the analysis of the outcomes based on goals, I needed to use two formulas to get the data I needed. To get the data for the number failed, canceled, and successful based on the goal and outcome I used the Countifs formula. Once I get that data, I added all the rows then divided them to get a percentage of the outcomes and goals. Once I get all my data, I then make a line chart so I can visualize the data. 
 ### Challenges and Difficulties Encountered
